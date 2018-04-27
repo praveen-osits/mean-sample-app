@@ -1,4 +1,5 @@
 # MEAN Sample App
+#### check the demo here http://praveen-github.ga:4000/
 ### This app uses NodeJS, ExpressJS, AngularJS, MongoDB
 ### NodeJs must be installed on target machine.
 ### MongoDB is not required to installed on target machine because app uses mongodb url of clever cloud, the mongodbUrl can be changed in package.json file.
