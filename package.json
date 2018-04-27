@@ -1,0 +1,28 @@
+{
+  "name": "weekdemo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "mongodbUrl":"mongodb://ua2yw3mst6efcer:r1PBwWXFaxvlm8vsLmWW@bzualgi0ecgdyg5-mongodb.services.clever-cloud.com:27017/bzualgi0ecgdyg5",
+  "appPort":"4000",
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "connect-mongo": "^2.0.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "^2.4.1",
+    "express": "~4.13.4",
+    "express-jwt": "^3.4.0",
+    "express-jwt-permissions": "^1.0.0",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^7.0.1",
+    "mongoose": "^4.5.1",
+    "morgan": "~1.7.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "serve-favicon": "~2.3.0",
+    "uid-safe": "^2.1.5"
+  }
+}
